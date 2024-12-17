@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "PixelPulse",
+        "HERO_HEADING_TEXT": "Share Your Vision, Inspire the World",
+        "HERO_SUBHEADING_TEXT": "PixelPulse: Where every image tells a story and every moment becomes unforgettable.",
+        "FOOTER_TEXT": "\u00a9 2023 PixelPulse. Capture, share, and connect through the power of visual storytelling."
+    }
+}
