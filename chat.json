@@ -307,5 +307,15 @@
         "source": "smart_contract_assistant",
         "content": "I apologize, but I cannot support deploying or generating frontends for Solana at this time. Deployment and interactions are limited to Ethereum and compatible chains such as Holesky, Sepolia, and Polygon.\n\nIs there anything else you would like assistance with?",
         "metadata": {}
+    },
+    {
+        "id": "04b8e3f3-9c05-4ad3-85f1-55d670d76940",
+        "timestamp": "2024-12-18T13:36:39.181094Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a forntend for the sc on the footer",
+        "metadata": {
+            "component_id": "Header1734439813"
+        }
     }
 ]
