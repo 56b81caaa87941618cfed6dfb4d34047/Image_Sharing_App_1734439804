@@ -82,5 +82,15 @@
         "source": "smart_contract_assistant",
         "content": "The staking smart contract is ready. Would you like to deploy it now?",
         "metadata": {}
+    },
+    {
+        "id": "2ccab1b4-7b61-43be-aa27-731385cfb888",
+        "timestamp": "2024-12-18T13:14:15.843231Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "deploy the staking smart contract to holesky",
+        "metadata": {
+            "component_id": "Hero1734439813"
+        }
     }
 ]
