@@ -92,5 +92,20 @@
         "metadata": {
             "component_id": "Hero1734439813"
         }
+    },
+    {
+        "id": "ccce6b24-e58b-4a96-9127-8a5ac8f8f6dc",
+        "timestamp": "2024-12-18T13:14:18.342153Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_jWbKgNYR3lWE2vc7QQX6qG2b",
+            "function": {
+                "arguments": "{\"contract_id\":\"staking_contract_1\",\"chain\":\"HOLESKY\",\"frontend_description\":\"Frontend component to interact with the Staking Contract where users can stake tokens, withdraw, and claim rewards.\",\"acknowledgement_message\":\"Okay, I'm deploying the contract...\"}",
+                "name": "DeployAndGenerateFrontend"
+            },
+            "type": "function"
+        }
     }
 ]
