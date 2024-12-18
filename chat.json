@@ -184,5 +184,23 @@
         "source": "smart_contract_assistant",
         "content": "The staking smart contract has been successfully deployed to Sepolia. Would you like to do anything else?",
         "metadata": {}
+    },
+    {
+        "id": "d0752d01-a880-4f1b-95b0-ef0f168fc94d",
+        "timestamp": "2024-12-18T13:18:21.786181Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend for it",
+        "metadata": {
+            "component_id": "Hero1734439813"
+        }
+    },
+    {
+        "id": "8a32ef0b-c229-47c6-8b8f-fad6507b79f8",
+        "timestamp": "2024-12-18T13:18:24.450780Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "Both frontend components for interactions with the staking contract were generated during the deployment. The components allow users to stake tokens, withdraw, and claim rewards. Do you need any modifications or would you like to do something else?",
+        "metadata": {}
     }
 ]
