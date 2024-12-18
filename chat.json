@@ -158,5 +158,13 @@
             },
             "type": "function"
         }
+    },
+    {
+        "id": "8afb80e7-f29b-40be-8eca-159b135a92f0",
+        "timestamp": "2024-12-18T13:17:19.810916Z",
+        "role": "assistant",
+        "source": "tool:DeployAndGenerateFrontend",
+        "content": "Okay, I'm deploying the contract...",
+        "metadata": {}
     }
 ]
