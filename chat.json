@@ -74,5 +74,13 @@
         "metadata": {
             "tool_call_id": "call_jWbKgNYR3lWE2vc7QQX6qG2b"
         }
+    },
+    {
+        "id": "6a1c2c51-05cb-49ac-8a81-9f36007f3863",
+        "timestamp": "2024-12-18T13:07:19.285094Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "The staking smart contract is ready. Would you like to deploy it now?",
+        "metadata": {}
     }
 ]
