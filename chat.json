@@ -409,5 +409,15 @@
         "source": "smart_contract_assistant",
         "content": "The minting smart contract has been generated. Would you like to deploy it now?",
         "metadata": {}
+    },
+    {
+        "id": "e64cd549-7610-439f-9979-7a84ecb84e53",
+        "timestamp": "2024-12-18T14:03:18.007613Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "deploy on holesky",
+        "metadata": {
+            "component_id": "Header1734439813"
+        }
     }
 ]
