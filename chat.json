@@ -202,5 +202,15 @@
         "source": "smart_contract_assistant",
         "content": "Both frontend components for interactions with the staking contract were generated during the deployment. The components allow users to stake tokens, withdraw, and claim rewards. Do you need any modifications or would you like to do something else?",
         "metadata": {}
+    },
+    {
+        "id": "e0f0fbeb-19d6-4963-9f47-9c2319f4e87f",
+        "timestamp": "2024-12-18T13:18:35.702185Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend for the hero",
+        "metadata": {
+            "component_id": "Hero1734439813"
+        }
     }
 ]
