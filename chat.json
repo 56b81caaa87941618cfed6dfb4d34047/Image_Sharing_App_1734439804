@@ -289,5 +289,23 @@
         "source": "smart_contract_assistant",
         "content": "I can only deploy to Ethereum testnets (Holesky and Sepolia) at the moment. Deployment to Mainnet chains such as Polygon is not supported. \n\nWould you like to deploy the contract again to a different testnet or make other modifications?",
         "metadata": {}
+    },
+    {
+        "id": "b1cb83a3-aa2d-4a32-b245-902bafe8e48c",
+        "timestamp": "2024-12-18T13:19:59.947785Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a ftonred for the adress 0x32362345234123 on solana",
+        "metadata": {
+            "component_id": "Hero1734439813"
+        }
+    },
+    {
+        "id": "94861141-356b-4721-acd9-89ad4c344107",
+        "timestamp": "2024-12-18T13:20:02.068296Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "I apologize, but I cannot support deploying or generating frontends for Solana at this time. Deployment and interactions are limited to Ethereum and compatible chains such as Holesky, Sepolia, and Polygon.\n\nIs there anything else you would like assistance with?",
+        "metadata": {}
     }
 ]
