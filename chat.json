@@ -253,5 +253,23 @@
         "source": "smart_contract_assistant",
         "content": "The Hero component has been updated to interact with the staking smart contract on Holesky. Do you need any further assistance?",
         "metadata": {}
+    },
+    {
+        "id": "b498fe0e-91b8-44dc-8817-300e89976c66",
+        "timestamp": "2024-12-18T13:19:10.767902Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what are the chains I can deploy to?",
+        "metadata": {
+            "component_id": "Hero1734439813"
+        }
+    },
+    {
+        "id": "e03904cd-f3d6-4448-8137-8947a28bf587",
+        "timestamp": "2024-12-18T13:19:12.559012Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "You can deploy to the following chains:\n- Ethereum\n- Polygon\n- Holesky (Ethereum testnet)\n- Sepolia (Ethereum testnet)\n- zkSync Era\n\nIs there anything else you would like to do?",
+        "metadata": {}
     }
 ]
