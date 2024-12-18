@@ -271,5 +271,23 @@
         "source": "smart_contract_assistant",
         "content": "You can deploy to the following chains:\n- Ethereum\n- Polygon\n- Holesky (Ethereum testnet)\n- Sepolia (Ethereum testnet)\n- zkSync Era\n\nIs there anything else you would like to do?",
         "metadata": {}
+    },
+    {
+        "id": "0669bc44-9d6a-462e-9e53-54a72c84e254",
+        "timestamp": "2024-12-18T13:19:32.151313Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "deploy to polygon",
+        "metadata": {
+            "component_id": "Hero1734439813"
+        }
+    },
+    {
+        "id": "0e1c29fb-26b9-4d98-a868-9653f23fb5bf",
+        "timestamp": "2024-12-18T13:19:37.103428Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "I can only deploy to Ethereum testnets (Holesky and Sepolia) at the moment. Deployment to Mainnet chains such as Polygon is not supported. \n\nWould you like to deploy the contract again to a different testnet or make other modifications?",
+        "metadata": {}
     }
 ]
