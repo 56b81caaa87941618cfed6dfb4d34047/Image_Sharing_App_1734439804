@@ -281,5 +281,13 @@
         "metadata": {
             "component_id": "Hero1734439813"
         }
+    },
+    {
+        "id": "0e1c29fb-26b9-4d98-a868-9653f23fb5bf",
+        "timestamp": "2024-12-18T13:19:37.103428Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "I can only deploy to Ethereum testnets (Holesky and Sepolia) at the moment. Deployment to Mainnet chains such as Polygon is not supported. \n\nWould you like to deploy the contract again to a different testnet or make other modifications?",
+        "metadata": {}
     }
 ]
