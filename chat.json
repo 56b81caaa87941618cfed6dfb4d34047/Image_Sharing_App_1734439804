@@ -460,5 +460,15 @@
         "source": "smart_contract_assistant",
         "content": "The minting smart contract has been successfully deployed to Holesky. Do you need any further assistance?",
         "metadata": {}
+    },
+    {
+        "id": "2e05c45b-dde9-4a0b-b137-ce0df6b43abd",
+        "timestamp": "2024-12-18T14:04:07.202937Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend on hero for it",
+        "metadata": {
+            "component_id": "Header1734439813"
+        }
     }
 ]
