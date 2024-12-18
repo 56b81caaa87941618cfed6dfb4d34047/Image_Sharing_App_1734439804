@@ -434,5 +434,13 @@
             },
             "type": "function"
         }
+    },
+    {
+        "id": "929d1825-425e-40b8-87ba-3d7211677c1e",
+        "timestamp": "2024-12-18T14:03:21.324427Z",
+        "role": "assistant",
+        "source": "tool:DeployAndGenerateFrontend",
+        "content": "Okay, I'm deploying the contract...",
+        "metadata": {}
     }
 ]
