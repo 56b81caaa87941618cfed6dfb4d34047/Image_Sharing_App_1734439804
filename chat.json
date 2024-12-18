@@ -133,5 +133,15 @@
         "source": "smart_contract_assistant",
         "content": "The staking smart contract has been successfully deployed to Holesky. How would you like to proceed next?",
         "metadata": {}
+    },
+    {
+        "id": "7e78cb33-a44d-4825-b54e-529532631ca4",
+        "timestamp": "2024-12-18T13:17:16.456617Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "deploy it to sepolia",
+        "metadata": {
+            "component_id": "Hero1734439813"
+        }
     }
 ]
