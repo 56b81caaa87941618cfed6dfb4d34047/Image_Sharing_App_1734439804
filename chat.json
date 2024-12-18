@@ -184,5 +184,15 @@
         "source": "smart_contract_assistant",
         "content": "The staking smart contract has been successfully deployed to Sepolia. Would you like to do anything else?",
         "metadata": {}
+    },
+    {
+        "id": "d0752d01-a880-4f1b-95b0-ef0f168fc94d",
+        "timestamp": "2024-12-18T13:18:21.786181Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend for it",
+        "metadata": {
+            "component_id": "Hero1734439813"
+        }
     }
 ]
