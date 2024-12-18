@@ -143,5 +143,20 @@
         "metadata": {
             "component_id": "Hero1734439813"
         }
+    },
+    {
+        "id": "01c31d4e-7ab9-440a-8dda-1e403939cb9f",
+        "timestamp": "2024-12-18T13:17:19.743601Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_7HUTlQGo6X0KnKcW3dRRdMET",
+            "function": {
+                "arguments": "{\"contract_id\":\"staking_contract_1\",\"chain\":\"SEPOLIA\",\"frontend_description\":\"Frontend component to interact with the Staking Contract where users can stake tokens, withdraw, and claim rewards.\",\"acknowledgement_message\":\"Okay, I'm deploying the contract...\"}",
+                "name": "DeployAndGenerateFrontend"
+            },
+            "type": "function"
+        }
     }
 ]
