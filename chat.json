@@ -511,5 +511,23 @@
         "source": "smart_contract_assistant",
         "content": "The Hero component has been updated to interact with the minting smart contract on Holesky. Do you need any more changes or help with anything else?",
         "metadata": {}
+    },
+    {
+        "id": "019aef59-1d6a-4390-9beb-01e2471d220a",
+        "timestamp": "2024-12-18T14:47:40.784685Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "it is internal",
+        "metadata": {
+            "component_id": "Header1734439813"
+        }
+    },
+    {
+        "id": "5ae1459c-5748-4557-8b1b-b4218e433aac",
+        "timestamp": "2024-12-18T14:47:42.528008Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "Let's switch to the base assistant to handle your request regarding the internal choice.",
+        "metadata": {}
     }
 ]
