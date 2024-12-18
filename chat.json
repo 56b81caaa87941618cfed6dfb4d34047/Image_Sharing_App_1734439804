@@ -521,5 +521,13 @@
         "metadata": {
             "component_id": "Header1734439813"
         }
+    },
+    {
+        "id": "5ae1459c-5748-4557-8b1b-b4218e433aac",
+        "timestamp": "2024-12-18T14:47:42.528008Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "Let's switch to the base assistant to handle your request regarding the internal choice.",
+        "metadata": {}
     }
 ]
